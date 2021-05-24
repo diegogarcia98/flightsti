@@ -1,0 +1,23 @@
+.wrapper-chat {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 1px;
+    
+    
+}
+
+.three {
+    
+    grid-column: 85;
+    grid-row: 2/5;
+   
+}
+.container-2 {
+    height: 300px;
+    width: 500px;
+    overflow-y: scroll;
+  }
+
+
+  
+
